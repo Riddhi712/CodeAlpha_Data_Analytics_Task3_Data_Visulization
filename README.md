@@ -76,3 +76,7 @@ ELSE "High" END
 - **Circle Color:** Region dimension
 
 ---
+## Contact
+
+- **Tableau Public:** [Shreya Tarafdar](https://public.tableau.com/app/profile/shreya.tarafdar)
+- **LinkedIn:** [Shreya Tarafdar](https://https://www.linkedin.com/in/shreya-tarafdar-726b7430a/)
